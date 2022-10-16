@@ -1,5 +1,9 @@
-- 👨‍💻 Hi, I’m Giordano!
+## Hi, I’m Giordano! 👨‍💻
+
+![image](https://user-images.githubusercontent.com/110947927/196051737-24d3f915-d744-4a71-af19-76a874d9581f.png)
+
 - 👀 I’m interested in
+
   - **Software Development** 🦕
   - **Offensive Security Research** 🦖
   - **Artificial Intelligence** 🤖
