@@ -1,9 +1,9 @@
 - 👨‍💻 Hi, I’m Giordano!
 - 👀 I’m interested in
-  - *Software Development* 🦕
-  - *Offensive Security Research* 🦖
-  - *Artificial Intelligence* 🤖
-- 🌱 I’m currently learning **Python for Networking and Cybersecurity**
+  - **Software Development** 🦕
+  - **Offensive Security Research** 🦖
+  - **Artificial Intelligence** 🤖
+- 🌱 I’m currently learning *Python for cybersecurity* and *PowerShell scripting*
 - 💞️ I’m looking to collaborate on cybersecurity open source projects 
 - 📫 You can reach me at hi@cyberoperator.dev
 
