@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in
 
-  - **Software Development** 🦕
   - **Offensive Security Research** 🦖
+  - **Software Development** 🦕
   - **Artificial Intelligence** 🤖
 - 🌱 I’m currently learning *Python for cybersecurity* and *PowerShell scripting*
 - 💞️ I’m looking to collaborate on cybersecurity open source projects 
