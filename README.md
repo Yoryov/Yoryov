@@ -6,7 +6,7 @@
   - **Software Development** 🦕
   - **Artificial Intelligence** 🤖
 - 🌱 I’m currently learning *Python for cybersecurity* and *PowerShell scripting*
-- 💞️ I’m looking to collaborate on cybersecurity open source projects 
+- 💞️ I’m looking to collaborate on open source cybersecurity projects 
 - 📫 You can reach me at hi@cyberoperator.dev
 
 <!---
