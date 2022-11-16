@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in
 
-  - **Offensive Security Research** 🦖
+  - **Security Research** 🦖
   - **Software Development** 🦕
   - **Artificial Intelligence** 🤖
 - 🌱 I’m currently learning *Python for cybersecurity* and *PowerShell scripting*
